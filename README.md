@@ -58,7 +58,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-ferreira-5a40ab348?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Bd%2F5%2By2QR4WOFZMjNy7KsA%3D%3D" target="_blank">
+<a href="https://www.linkedin.com/in/gabriel-ferreira-5a40ab348?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcinF%2FXghS%2BSsXXdLC%2FuzKw%3D%3D" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/https://github.com/xsGabriel" target="_blank">
