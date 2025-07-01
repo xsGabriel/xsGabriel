@@ -61,7 +61,7 @@
 <a href="https://www.linkedin.com/in/gabriel-ferreira-5a40ab348?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcinF%2FXghS%2BSsXXdLC%2FuzKw%3D%3D" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/https://github.com/xsGabriel" target="_blank">
+<a href="https://github.com/xsGabriel" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
