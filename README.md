@@ -1,16 +1,11 @@
 <div align="center">
-<img src="https://via.placeholder.com/600x300?text=Sua+Imagem+Aqui" alt="Imagem de Perfil" width="600" />
-</div>
-
-<div align="center">
 <h1>Olá! Sou Gabriel</h1>
-<p>Estudante de Análise e Desenvolvimento de Sistemas. Desenvolvedor focado em resolver problemas com código. Busco minha primeira vaga em back-end, mas aberto a contribuições em qualquer área.</p>
+<p>Estudante de Análise e Desenvolvimento de Sistemas.</p>
 </div>
 
 - 🎯 Experiência com HTML, CSS e PHP em projetos acadêmicos desenvolvidos do zero.
 - 🛠️ Aprimorando conhecimentos em Java, C e melhores práticas de programação.
 - 📊 Familiar com Power BI e Power Query para organização de dados e impacto social.
-- 💬 Entusiasta de tecnologias web e seu funcionamento interno.
 
 <br/>
 
