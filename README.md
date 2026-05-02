@@ -39,14 +39,6 @@ Aqui estão alguns dos projetos em que venho trabalhando:
 
 ---
 
-### ⚡ Curiosidades sobre mim
-
-- 📚 Nas horas vagas, gosto bastante de ler webnovels e mangás (especialmente *Shadow Slave* e *SSS-Class Suicide Hunter*).
-- ⚽ Sou um torcedor apaixonado do São Paulo Futebol Clube (MorumBIS é a nossa casa!).
-- 💡 Gosto de histórias e dinâmicas que envolvam contrastes, como o conceito de "luz e sombra".
-
----
-
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
