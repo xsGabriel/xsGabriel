@@ -9,6 +9,7 @@ Tenho foco em **Desenvolvimento Full-Stack**, construindo aplicações dinâmica
 ### 💻 Minhas Habilidades e Tecnologias
 
 **Back-end, Banco de Dados & APIs:**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -17,11 +18,13 @@ Tenho foco em **Desenvolvimento Full-Stack**, construindo aplicações dinâmica
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Front-end & Design:**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Engenharia de Software, Processos & Ferramentas:**
+
 ![BPMN](https://img.shields.io/badge/BPMN_2.0-F26522?style=for-the-badge)
 ![UML & Mapeamento](https://img.shields.io/badge/Análise_de_Sistemas-000000?style=for-the-badge)
 
