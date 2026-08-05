@@ -1,28 +1,31 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=005C84&height=250&section=header&text=Gabriel%20Ferreira&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20Full-Stack&descSize=25&descColor=ffffff" width="100%" />
+  <!-- Animação do Título com cor Ciano Vibrante (Efeito Neon) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Gabriel+Ferreira;Desenvolvedor+Full-Stack;Tecnólogo+em+Sistemas" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-  <h3> Transformando regras de negócio em experiências digitais 🚀 </h3>
-  <p> Tecnólogo em Análise e Desenvolvimento de Sistemas | Desenvolvedor Full-Stack </p>
+  <!-- GIF Animado simulando dinamismo -->
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI0YmM4ZWM1YjM4ZjQ3ZjI0YjQxZGY4YjQxZGY4YjQxZGY4YjQxZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggCGh1rvYp255t/giphy.gif" width="200" alt="Animated Developer">
 </div>
 
 ---
 
 ### 👨‍💻 Um pouco sobre mim
 
-Sou um desenvolvedor focado em criar soluções completas, desde o **levantamento de requisitos** até a **implementação e integração**. Gosto de transitar entre o planejamento estrutural e a codificação pura, garantindo que o back-end e o front-end se comuniquem com perfeição.
+Sou um desenvolvedor focado em criar soluções completas, desde o <kbd>levantamento de requisitos</kbd> até a <kbd>implementação</kbd> e <kbd>integração</kbd>. Gosto de transitar entre o planejamento estrutural e a codificação pura, garantindo que o back-end e o front-end se comuniquem com perfeição.
 
-Meu foco atual é construir arquiteturas modernas e escaláveis, desenvolvendo aplicações Full-Stack de alto impacto e expandindo meu arsenal tecnológico.
+Meu foco atual é construir arquiteturas modernas e escaláveis, desenvolvendo aplicações <kbd>Full-Stack</kbd> de alto impacto e expandindo meu arsenal tecnológico.
 
-> 💡 **O que busco:** Integrar times dinâmicos de tecnologia para atuar na arquitetura, desenvolvimento e manutenção de sistemas inovadores.
+> 💡 **O que busco:** Integrar times dinâmicos de tecnologia para atuar na <kbd>arquitetura</kbd>, <kbd>desenvolvimento</kbd> e <kbd>manutenção</kbd> de sistemas inovadores.
 
 <br>
 
 ### ⚡ O que estou fazendo agora
 
 - 🔭 **Construindo:** Novas aplicações Full-Stack para expandir meu portfólio e resolver problemas reais.
-- 🌱 **Aprimorando:** Integrações robustas de back-end com **Java Spring Boot** e **Express**, combinadas com interfaces dinâmicas em **React**.
+- 🌱 **Aprimorando:** Integrações robustas de back-end com <kbd>Java Spring Boot</kbd> e <kbd>Express</kbd>, combinadas com interfaces dinâmicas em <kbd>React</kbd>.
 - 🤝 **Aberto a:** Oportunidades de colaboração em projetos de tecnologia e novos desafios no mercado de trabalho.
 
 ---
@@ -66,5 +69,5 @@ Meu foco atual é construir arquiteturas modernas e escaláveis, desenvolvendo a
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=005C84&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer" width="100%" />
 </div>
