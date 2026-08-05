@@ -1,6 +1,6 @@
 <div align="center">
   <!-- GIF do Vault Boy clássico -->
-  <img src="https://media.giphy.com/media/xUOxfg0EsX2M6IEtu8/giphy.gif" width="200" alt="Vault Boy">
+  <img src="https://media.giphy.com/media/xUOxfg0EsX2M6IEtu8/giphy.gif" width="180" alt="Vault Boy">
   <br>
   <!-- Animação estilo Terminal com Fonte CRT e Verde Neon -->
   <a href="https://git.io/typing-svg">
@@ -9,7 +9,8 @@
 </div>
 
 ```diff
-+ > INICIANDO CONEXÃO COM O PIP-BOY...
-+ > NOME: GABRIEL FERREIRA
-+ > CLASSE: DESENVOLVEDOR FULL-STACK
-+ > OBJETIVO: SOBREVIVER AOS BUGS DO WASTELAND
++ > INICIANDO CONEXÃO COM O PIP-BOY 3000...
++ > USUÁRIO: GABRIEL FERREIRA DA SILVA
++ > CLASSE: DESENVOLVEDOR FULL-STACK | TECNÓLOGO EM A.D.S.
++ > STATUS PROFISSIONAL: PRONTO PARA ATUAÇÃO TÉCNICA E ADMINISTRATIVA
++ > DIRETRIZ PRINCIPAL: SOBREVIVER AOS BUGS DO WASTELAND E ENTREGAR VALOR
