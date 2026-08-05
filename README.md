@@ -15,7 +15,7 @@
 + > CLASSE: DESENVOLVEDOR FULL-STACK
 + > STATUS OPERACIONAL: DISPONÍVEL PARA DEMANDAS TÉCNICAS E ADMINISTRATIVAS
 + > DIRETRIZ PRINCIPAL: CONSTRUIR SISTEMAS ESCALÁVEIS E SOBREVIVER AO WASTELAND
-  > 
+  
 + > [QUEST PRINCIPAL] Expandir o portfólio criando aplicações Full-Stack modernas e escaláveis.
 + > [TREINAMENTO] Aprofundando estudos em integrações avançadas entre React, Express e Java Spring Boot.
 + > [OBJETIVO CORPORATIVO] Integrar uma equipe de tecnologia sólida, atuando no desenvolvimento estrutural e manutenção de sistemas dinâmicos.
